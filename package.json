@@ -1,0 +1,20 @@
+{
+  "name": "@nikonov-alex/list",
+  "version": "0.0.1",
+  "description": "List implementation with additional functions",
+  "main": "index.js",
+  "types": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nikonov-alex/list.git"
+  },
+  "author": "Aleksander Nikonov <nikonov.personal.mail@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nikonov-alex/list/issues"
+  },
+  "homepage": "https://github.com/nikonov-alex/list#readme",
+}
